@@ -2,6 +2,15 @@
 Backend snap authentication using passport
 
 ```
-On browser open http://localhost:3000/login/snapchat
+ open http://localhost:3000/login/snapchat to start testing
 ```
-this url should be configured on snapchat console.
+
+The url should be configured on snapchat developers portal. 
+
+Create an organization clicking below, on developer portal
+
+```
+https://developers.snap.com/
+```
+Then use your credentials from global setup.
+The callback url should be configured on "Redirect URIs for OAuth" section.
