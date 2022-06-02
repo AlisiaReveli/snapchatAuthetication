@@ -1,4 +1,4 @@
-# snap
+# Snapchat Authentication
 Backend snap authentication using passport
 
 ```
